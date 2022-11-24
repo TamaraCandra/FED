@@ -57,6 +57,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - de website is best oke voor blinden.
+  - de website is makkelijk in de omgang als je iets aan je handen hebt.
+  - de website is niet perfect in het tabben, slaat veel stukken over.
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
@@ -112,7 +115,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  - Uitleg in de les snap ik vaak goed.
+  - Huiswerkopdrachten niet allemaal gelukt.
+  - Motivatie is er te weinig op het moment.
+  - Lastig waar te beginnen.
+  - Nu al stress of ik het uberhaupt af ga krijgen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen
